@@ -1,0 +1,170 @@
+﻿body{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+h1{
+    font-size: 55px;
+    font-weight: 500;
+}
+h1 span{
+    color: #EC4B81;
+    font-weight: 800;
+}
+p{
+    margin-bottom: 50px;
+    color: #333;
+}
+section{
+    height: 700px;
+}
+img{
+    width: 100%;
+}
+a{
+
+}
+.link{
+    
+padding: 10px 20px;
+    
+background: linear-gradient(45deg,#EC4B81,tomato);
+    
+text-decoration: none;
+    
+font-weight: 600;
+    
+color: #fff;
+    
+border-radius: 5px;
+}
+.align{
+    margin-top: 100px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    padding: 50px 0;
+}
+.half-width img{
+    width: 75%;
+}
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-size: contain;
+}
+.latest-wrok{
+    background-image: url(images/latest-work-bg.png);
+    height: 500px;
+}
+.work-width{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.work-width img{
+    width: 100%;
+}
+
+.align-text{
+   text-align: center;
+   padding: 35px;
+}
+
+.footer-area{
+    background-image: url(images/footer-bg.png);
+    height: 700px;
+    background-size: contain;
+}
+.client{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+h3{}
+h4{
+    color: #333;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.client{
+    width: 500px;
+    margin: auto;
+}
+h3{}
+h4{
+    color: #333;
+    font-size: 15px;
+    font-weight: 100;
+}
+.client-box{
+    border: 1px solid #EB4B82;
+    width: 50%;
+    float: left;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg,#EB498B,#EC4C7B);
+    box-sizing: border-box;
+}
+.client-box p{
+    margin: 20px 0;
+    color: white;
+}
+.client-box p a{
+    display: block;
+    padding-bottom: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+.contact{
+    width: 50%;
+    float: left;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.contact form{}
+.contact form input{
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: 1px solid #EB4B82;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.contact form input:focus{
+    border: 1px solid #EB4B82;
+    background: #EB4B82;
+    color: white;
+}
+.clientbox-width{
+    width: 100%;
+}
+
+
+footer{
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+    background: #EC4B81;
+    text-align: center;
+}
+footer p{
+    margin: 0px;
+    padding: 30px 0px;
+    color: white;
+    
+}
