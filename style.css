@@ -12,7 +12,7 @@ h1{
     font-weight: 500;
 }
 h1 span{
-    color: #EC4B81;
+    color: #4bc7ec;
     font-weight: 800;
 }
 p{
@@ -32,7 +32,7 @@ a{
     
 padding: 10px 20px;
     
-background: linear-gradient(45deg,#EC4B81,tomato);
+background: #e24bec;
     
 text-decoration: none;
     
@@ -159,7 +159,7 @@ footer{
     float: left;
     width: 100%;
     margin-top: 50px;
-    background: #EC4B81;
+    background: #4bc7ec;
     text-align: center;
 }
 footer p{
